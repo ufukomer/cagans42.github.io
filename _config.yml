@@ -1,7 +1,7 @@
 # Site settings
-title: Cagan
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Cagan Sit 
+twitter_username: xaganic 
+name: Cagan Sit 
 
 # Build settings
 markdown: kramdown
@@ -9,80 +9,117 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+ - title: Hackerrank
+   url: https://www.hackerrank.com/xaganic?hr_r=1
  - title: GitHub
-   url: https://github.com/robhinds
+   url: https://github.com/xaganic
  - title: StackOverflow
    url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://www.linkedin.com/in/%C3%A7a%C4%9Fan-%C5%9Fit-886071121/
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
- - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
- - Java
- - JPA
+ - Nodejs (Express, Loopback)
+ - Golang (mux)
+ - PHP (Laravel)
+ - Java (Spring, Spring Boot)
+ - Javascript (React, jQuery)
+ - HTML/CSS
  - SQL
+ - Agile (Scrum, Kanban)
+ - Jira
+ - Software Methodologies
+ - S.O.L.I.D
+ - Microservices
+ - API design
  - REST
+ - Devops
+ - Shell Script
  - Technical Architecture
- - Machine learning
-
+ - Linux
+ - Amazon Web Services
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
+ - title: Software Developer
+   start: 2018
+   end: 2019
+   employer: Insider
+   description: As soon as i finished my collage I started working on Insider. Mosty handled customer services. Mostly used Javascript to customise our partner's web site. Also I used PHP to connect our API's with their side.
+ - title: Freelancer 
    start: 2017
-   end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
+   end: 2018
+   employer:
+   description: I always enjoyed dealing with computers. To finish my collage in time I had to quit my last job which is Nmobs/Genart Media. But i didn't stop. And tried to impore my self. And also built some personal websites.
+ - title: Backend Developer 
+   start: 2017
+   end: 2018 
+   employer: Nmobs/Genary Media
+   description: My team mates and i were developed an API called Odin using Nodejs. And also developed a dashboard called "Tagon" using Reactjs.
+ - title: PHP Developer
    start: 2016
    end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   employer: Monopol Tech
+   description: I worked on Full Stack PHP Project while studying at the university.
 
 #Education is required
 education:
  - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+   date: 2018
+   subject: Computer Engineering
+   school: Istanbul Aydin University
 
 #This section is optional (as is the image link below)
 coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   profileurl:
    courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+    - title: Global Day of Code Retreat
+      link: 
+      optionalimage:
+      date: 2014
+    - title: GDG Devfest 2014
+      link: 
+      optionalimage:
+      date: 2014
+    - title: Python Meetup
+      link: 
+      optionalimage:
+      date: 2016
+    - title: GetHired Through Hire51's Data Analytics Hiring Drive
+      link: 
+      optionalimage:
+      date: 2016
+    - title: AR-GE Management Technology
+      link: 
+      optionalimage:
+      date: 2016
+    - title: BILTEG'16
+      link: 
+      optionalimage:
+      date: 2016
+    - title: Sony Cyber Security Workshop
+      link: 
+      optionalimage:
+      date: 2017
+    - title: Deep Web & Underground Security
+      link: 
+      optionalimage:
+      date: 2017
+    - title: Cezeri Cyber Security
+      link: 
+      optionalimage:
+      date: 2017
+    - title: Frontend Architect & Full Stack PHP Development
+      link: 
+      optionalimage:
+      date: 2017
+    - title: Basaksehir Living Lab Javascript Course
+      link: 
+      optionalimage:
+      date: 2018
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
@@ -111,7 +148,7 @@ github:
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
+   profileurl: https://www.hackerrank.com/xaganic
    flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 intro: |
