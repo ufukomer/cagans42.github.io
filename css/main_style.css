@@ -135,6 +135,7 @@ table {
 	padding-top: 15px;
 }
 .content-rounded-panel {
+	text-align: center;
 	padding-left:10px;
 	padding-right:10px;
 	padding-bottom:10px;
@@ -413,4 +414,9 @@ td.loginRow {
 
 .github-box {
 	margin-top: 15px;
+}
+
+.sidebar-avatar {
+	width: 225px;
+	height: 225px;
 }
