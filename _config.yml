@@ -24,7 +24,8 @@ skills:
  - Java (Spring, Spring Boot)
  - Javascript (React, jQuery)
  - HTML/CSS
- - SQL
+ - MySql
+ - NoSql (Redis, Mongodb)
  - Agile (Scrum, Kanban)
  - Jira
  - Software Methodologies
@@ -65,7 +66,7 @@ roles:
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
+ - level: Bachelor of Computer Engineering
    date: 2018
    subject: Computer Engineering
    school: Istanbul Aydin University
@@ -151,13 +152,15 @@ intro: |
   I have worked in large scale consultancy roles across Europe as well as a mix of startup experience (including one that was acquired) and I am currently the Chief Technology Officer at a legal-tech startup called <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
-   <strong>Scala</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="http://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
-   <strong>Java</strong>: I am experienced in a variety of Java API’s and frameworks. I have worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others. <br/><br/>
-   <strong>Groovy</strong> I have used Groovy as a language in production for ~4 years and I am familiar with many of the languages features (such as writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>) and quirks (such as <a target="_blank" href="https://dzone.com/articles/groovy-retrospective-an-addendum-memory-usage-perm">memory leak issues</a>). <br/><br/>
-   <strong>Cloud platforms</strong>: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito, <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/05/serverless-with-aws-lambda-scala.html">Lambda</a> and its more recent <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/10/machine-learning-with-aws-scala.html">Machine Learning capabilities</a>.<br/><br/>
-   <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS, Backbone/Underscore/Require. More recently I have written React applications (primarily using the Create React App framework, and extending them)<br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
-   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/AWS. <br/><br/>
-   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="http://projects.spring.io/spring-social/">http://projects.spring.io/spring-social/</a>. <br/><br/>
-   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="http://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
+additionalinfo:
+   <strong>Java</strong>: Mostly used for Data structures and Design of Algorithms. I also made several games when i was in university. Recently i am improving my knowledge of Java EE (Spring Framework, Hibernates, etc.)<br/><br/>
+   <strong>Nodejs</strong>: <br/>My most experienced technology is Nodejs. When i was intern a campany I took a role as backend developer. My team mates and i developed a big API using OPEN API standarts. Also i have used several Nodejs frameworks like Adonisjs, Loopback, Socket.io, etc. In my collage I have made my thesis using Nodejs<br/><br/>
+   <strong>GO</strong>: <br/>When i was working on Insider. There were several problems with automation. And I decided to make our people life easier. And I need to write a Food Bot for the peoeple. And i learned Go language to make the response times much more shorter. And then i realized i liked Go so much. And i continued to use Golang for my personal projects.(Web Projects, Microservices)<br/><br/>
+   <strong>Devops</strong>: <br/>In university i was started to use Linux. And i really enjoyed it. Because it seemed like it is a Virtual World. So keept using Linux. And do some devops stuffs. Then started to using Devops and automation stuffs. The last company that i was workign on was using AWS cloud. I tried to make experience using Jenkins, Docker, AWS, Shell Script, etc. And they gave me a permission to be able to do that.<br/><br/>
+   <strong>PHP</strong>: <br/>The first backend language that i learned is PHP. When i was doing my first internship We needed to make a website using PHP. And we used a framework called Codeigniter. Then i liked PHP and learned a new framework called Laravel. I have made several websites using PHP for my Freelance works.<br/><br/>
+   <strong>Cloud platforms</strong>: <br/> I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using EC2. I have also experience lambda functions and S3.<br/><br/>
+   <strong>Web Development</strong>: <br/> Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS, Backbone/Underscore/Require. More recently I have written React applications (primarily using the Create React App framework, and extending them)<br/><br/>
+   <strong>Development Control</strong>: <br/> I have a good knowledge of application life-cycle management tools like Git, Maven, Jenkins, etc. I have experience with an array of testing tools and technologies.<br/><br/>
+  
+   In my personal life i like play Basketball, watching qualified movies, playing electric guitar and also traveling as much as i can do.<br/><br/>
+   Also i started to writing blogs on Medium. I want to share all of my experience about Software with people.
