@@ -436,3 +436,12 @@ td.loginRow {
 	text-align: left;
     margin-left: 5px;
 }
+
+.additional-information-section-header h3 {
+	text-align: center;
+	font-weight: bold;
+}
+
+.additional-information-section-header p {
+	text-align: center;
+}
