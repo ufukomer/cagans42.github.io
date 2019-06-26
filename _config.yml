@@ -128,9 +128,9 @@ coursera:
 speakerdeck:
    profileurl: https://speakerdeck.com/robhinds
    talks:
-    - title: Product Management for Engineers
-      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-      conference: API Conference, Berlin 2018
+    - title: FeedMaily Microservice Arthitecture
+      speakerdeckId: 2204e36e1ad7464da77f9761231da0b1
+      conference: Thesis 2018
     - title: Agile Machine Learning - from Theory to Production
       speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
       conference: W-JAX Conference, Munich 2017 (London 2017)
@@ -150,7 +150,7 @@ stackoverflow:
    flairimageurl:
 
 intro: |
-  I am a software engineer with specialized Backend and Devops technologies. I have been working with API’s, automation tools and Backend Frameworks. The languages that I have experience most are Nodejs, PHP, Golang and Java. Also the Devops technologies I have been used: Jenkins, Travis, AWS (S3, Lambda, EC2, API Gateways, etc.). I have 2 years of experience with RESTFUL APIS and Database management systems.  Also I have 4 years experience Linux associative with Linux Management. Now I am focusing on Java Enterprise Edition technologies such as Spring, Spring Boot, Hibernate, Maven with Devops technologies. I have experience with Database Management Tools such as: SQL, SQLite for relational databases and  used Redis, MongoDB for non-relational databases.My goal is being a good developer <br/><br/>
+  I am a software engineer that is specialized Backend and Devops technologies. I have been working with API’s, automation tools and Backend Frameworks. The languages that I have experience most are Nodejs, PHP, Golang and Java. Also the Devops technologies I have been used: Jenkins, Travis, AWS (S3, Lambda, EC2, API Gateways, etc.). I have 2 years of experience with RESTFUL APIS and Database management systems.  Also I have 4 years experience Linux associative with Linux Management. Now I am focusing on Java Enterprise Edition technologies such as Spring, Spring Boot, Hibernate, Maven with Devops technologies. I have experience with Database Management Tools such as: SQL, SQLite for relational databases and  used Redis, MongoDB for non-relational databases.My goal is being a good developer <br/><br/>
   I enjoy building fully featured and qualified products, with a good Product Management focus and a good emphasis on good engineering principles and clean code. It is really important to care about writing clean codes to make qualified softwares. I have one year experience with code review and tried to apply code review standards on company. I have good knowledge about programming paradigms  such as Imperative, Declerative, Structured, Object Oriented, Functional, Event Driven, Procedural. Always try to implement my project using most proper paradigms. It is so important to know Data Structures and using SOLID principles to create good software. Also design patterns I always care about Singleton, Prototype (in javascript), Observer, Factory to build qualified softwares.<br/><br/>
   I always enjoyed deal with softwares in my life. I want to build qualified and scalable projects using new and reliable technologies. I like to write Medium articles, Solve Hackerrank problems, and open source in my spare time.
 
