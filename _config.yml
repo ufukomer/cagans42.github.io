@@ -137,12 +137,12 @@ speakerdeck:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - xaganic/dictionary-api
- - xaganic/zinger-api
- - xaganic/imdb-movie-finder
- - xaganic/creepy-bird
- - xaganic/GithubFinder
- - xaganic/Ehliyet_Sinavi_Uygulamasi
+ - cagans42/dictionary-api
+ - cagans42/zinger-api
+ - cagans42/imdb-movie-finder
+ - cagans42/creepy-bird
+ - cagans42/GithubFinder
+ - cagans42/Ehliyet_Sinavi_Uygulamasi
 
 #Stackoverflow flair is optional
 stackoverflow:
