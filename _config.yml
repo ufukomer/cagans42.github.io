@@ -126,14 +126,11 @@ coursera:
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
 speakerdeck:
-   profileurl: https://speakerdeck.com/robhinds
+   profileurl: https://speakerdeck.com/cagans42
    talks:
     - title: FeedMaily Microservice Arthitecture
       speakerdeckId: 2204e36e1ad7464da77f9761231da0b1
       conference: Thesis 2018
-    - title: Agile Machine Learning - from Theory to Production
-      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-      conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #List of interesting Github repo/projects to include - optional
 github:
